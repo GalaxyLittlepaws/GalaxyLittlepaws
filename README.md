@@ -39,9 +39,9 @@ I've been a resident in Second Life for a long time and from there I picked up a
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GalaxyLittlepaws"><img src="https://github-readme-stats.vercel.app/api?username=GalaxyLittlepaws&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GalaxyLittlepaws's GitHub stats" /></a>
+<a href="http://www.github.com/GalaxyLittlepaws"><img src="https://github-readme-stats.vercel.app/api?username=GalaxyLittlepaws&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GalaxyLittlepaws's GitHub stats" /></a><a href="https://github.com/GalaxyLittlepaws" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyLittlepaws&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/GalaxyLittlepaws" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyLittlepaws&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![@galaxylittlepaws' Holopin board](https://holopin.io/api/user/board?user=galaxylittlepaws)](https://holopin.io/@galaxylittlepaws)
 
 ### My Ko-Fi
 <a href='https://ko-fi.com/Z8Z3VA4J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
