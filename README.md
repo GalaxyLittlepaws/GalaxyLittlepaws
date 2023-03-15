@@ -1,14 +1,14 @@
 Hi 👋 My name is Galaxy Littlepaws
 ==================================
 
-Web and Game Developer
+Software Developer
 ----------------------
 
 I've been a resident in Second Life for a long time and from there I picked up a love for coding, 3D modeling, and art.
 
 *   🌍  I'm based in the USA
 *   ✉️  You can contact me at [galaxylittlepaws@proton.me](mailto:galaxylittlepaws@proton.me)
-*   🚀  I'm currently working on [Crystal Pony Virtual Pets](https://crystalponysl.com) and [Galaxy's Cat Roleplay System for SL](https://github.com/GalaxyLittlepaws/Galaxy-s-Cat-Roleplay-System-for-SL)
+*   🚀  I'm currently working on [Galaxy's Cat Roleplay System for SL](https://github.com/GalaxyLittlepaws/Galaxy-s-Cat-Roleplay-System-for-SL)
 
 ### Skills
 <p align="left">
