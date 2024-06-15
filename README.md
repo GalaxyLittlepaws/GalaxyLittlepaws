@@ -46,3 +46,6 @@ I've been a resident in Second Life for a long time and from there I picked up a
 
 ### My Ko-Fi
 <a href='https://ko-fi.com/Z8Z3VA4J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+## Holopin Board
+[![@galaxylittlepaws' Holopin board](https://holopin.io/api/user/board?user=galaxylittlepaws)](https://holopin.io/@galaxylittlepaws)
