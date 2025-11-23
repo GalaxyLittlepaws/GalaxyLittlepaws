@@ -6,9 +6,9 @@ Software Developer
 
 I've been a resident in Second Life for a long time and from there I picked up a love for programming and art.
 
-*   🌍  I'm based in the USA
+*   🌍  I'm based in Canada
 *   💻  You can find me at [GalaxyLittlepaws.com](https://galaxylittlepaws.com)
-*   🚀  I'm currently working on [GalaxyViewer](https://galaxyviewer.com/)
+*   🚀  I'm currently working on [GalaxyViewer](https://galaxyviewer.com/) and [Crystal Pony virtual pets](https://crystalponysl.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
